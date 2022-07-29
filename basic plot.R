@@ -1,4 +1,4 @@
 x = 1:20
-y = 5*x+6
+y = 9*x+8
 
 plot(x,y, type = 'l')
